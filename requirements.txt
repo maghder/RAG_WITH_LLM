@@ -1,0 +1,21 @@
+# ============================================================================
+# Dépendances du Système de Questions-Réponses sur le manuel des Procédures
+# ============================================================================
+
+# Core LangChain packages
+langchain-ollama>=0.1.0
+langchain-chroma>=0.1.0
+langchain-core>=0.1.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Document Processing
+docling>=1.0.0
+python-docx>=0.8.11
+
+# PDF Export (optional)
+reportlab>=4.0.0
+
+# Utilities
+requests>=2.31.0
